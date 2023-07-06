@@ -1,7 +1,0 @@
-transformers==2.10.0
-pytorch-lightning==0.8.1
-torch==1.5.1
-bert-score==0.3.3
-sacrebleu==1.4.12
-moverscore==1.0.3
-BLEURT==1.0.0

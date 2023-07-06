@@ -9,7 +9,7 @@ parser = ArgumentParser()
 parser.add_argument("--size", help="size of dataset wanted", required=True)
 parser.add_argument("--set", help="set name e.g.train, dev", required=True)
 parser.add_argument("--template_file", help="path to templates", default='templates.csv')
-parser.add_argument("--output_path", help="path to output questions", default='mixed_base_')
+parser.add_argument("--output", help="path to output questions", default='mixed_base_')
 
 
 args = parser.parse_args()
@@ -64,7 +64,7 @@ repeats = int(size // n_templates)
 random_size = int(size % n_templates)
 sample = random.sample([i for i in range(0, n_templates)], random_size)
 # Creates text file of dictionary
-with open(f'{args.output_path}_{size}.{sets}', 'w') as f:
+with open(f'{args.output}_{size}.{sets}', 'w') as f:
     count = 0
     if repeats != 0:
         for i in tqdm(range(repeats)):

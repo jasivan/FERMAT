@@ -13,7 +13,7 @@ parser.add_argument('--model_checkpoint',
 parser.add_argument('--evaluation_set',
                     required=True,
                     help='path to evaluation set as json')
-parser.add_argument('--output_name',
+parser.add_argument('--output',
                     required=True,
                     help='file name to save results')
 parser.add_argument('--prompt',
@@ -35,11 +35,8 @@ prompt = str(args.prompt)
 from datasets import load_dataset, load_metric
 metric = load_metric("accuracy")
 
-if os.path.exists(args.output_name) == False:
-  os.mkdir(args.output_name)
-
-
-# categories = ['Original', 'Worded', 'Integers_0_to_1000', '1000+', '1000+_comma_separator', '1000+_space_separator', '1dp_0_to_1000', '2dp_0_to_1000', 'with_initial_0', 'without_initial_0', 'Commuted', 'Random_noise', 'Uniform_noise']
+if os.path.exists(args.output) == False:
+  os.mkdir(args.output)
 
 category_2_idx = {}
 data_files = {"train":'/users/acp21jas/arithmetics/data/train.json'}
@@ -252,7 +249,7 @@ for key , value in category_2_idx.items():
     header = ['preds', 'targets']
     data = [ [str(pred), str(label)] for pred, label in zip(preds, labels) ]
     name_value = value.replace(' ', '_')
-    with open(f'{args.output_name}/{name_value}-preds_labels.csv', 'w', newline='') as f:
+    with open(f'{args.output}/{name_value}-preds_labels.csv', 'w', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(header)
         writer.writerows(data)
@@ -261,5 +258,5 @@ import pandas as pd
 print(results)
 df = pd.DataFrame(data=results)
 model_name = model_checkpoint.split('/')[1].split('-')[:2]
-df.to_csv(f'{args.output_name}/summary', index=False, mode='w')
+df.to_csv(f'{args.output}/summary', index=False, mode='w')
 print(model_checkpoint)

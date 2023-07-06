@@ -2,26 +2,10 @@
 
 This is the repository for <a href="https://arxiv.org/abs/2305.17491">FERMAT: An Alternative to Accuracy for Numerical Reasoning</a> by <a href="https://jasivan.github.io/">Jasivan Alex Sivakumar</a> and <a href="https://ns-moosavi.github.io/">Nafise Sadat Moosavi</a> accepted at ACL 2023.
 
-You can find the codes and test sets in their respective folders. The codes folder is still being updated
-
+You can find the codes, templates and test sets in their respective folders. Note that the codes folder is still being updated.
 
 ### Requirements
-Install the packages from the requireents.txt file (transformers, torch, datasets, accelerate, SentencePiece).
-
-## Usage
-Basic usage with CoNLL files:
-
-	$ python scorer.py key system
-
-`key` and `system` are the files with gold coreference and system output, respectively.
-
-For more details, refer to
-[ARRAU README](https://github.com/ns-moosavi/coval/blob/master/arrau/README.md)
-for evaluations of the ARRAU files and
-[CoNLL README](https://github.com/ns-moosavi/coval/blob/master/conll/README.md)
-for CoNLL evaluations.
-
-Run tests with `python3 -m pytest unittests.py`
+Install the packages from the requirements.txt file (transformers, torch, datasets, accelerate, SentencePiece, json, pandas, numpy).
 
 ## Reference
 If you use this code in your work, please cite the paper:

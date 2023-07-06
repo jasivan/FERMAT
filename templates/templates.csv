@@ -1,0 +1,227 @@
+templates,answers,expressions
+the average weight of num1 pigs is num2 kg . weight less than num3 kg is considered as under weight . what maximum no . of pig can be under weight .,(( num3-num2 )* num1 ),(a-b)*c
+"think of a number , divide it by num1 and add num2 to it . the result is num3 . what is the number thought of ?",(( num3-num2 )* num1 ),(a-b)*c
+"ajith and rana walk around a circular course num1 km in circumference , starting together from the same point . if they walk at speed of num2 and num3 kmph respectively , in the same direction , when will they meet ?",( num1 *( num3-num2 )),(a-b)*c
+"what is the divisor ? the dividend is num1 , the remainder is num2 , the quotient is num3 ",(( num1-num2 )/ num3 ),(a-b)/c
+if num1 is divided by any no . then quotient is num2 and remainder is num3 . what is divisor ?,(( num1-num3 )/ num2 ),(a-b)/c
+"on dividing num1 by a certain number , the quotient is num2 and the remainder is num3 . find the divisor .",(( num1-num3 )/ num2 ),(a-b)/c
+"on dividing num1 by a certain number , we get num2 as quotient and num3 as remainder . what is the divisor ?",(( num1-num3 )/ num2 ),(a-b)/c
+"two men started from the same place walk at the rate of num1 kmph and num2 kmph respectively . what time will they take to be num3 km apart , if they walk in the same direction ?",(( num2-num1 )/ num3 ),(a-b)/c
+"if remainder is num1 , quotient is num2 and dividend is num3 then what is divisor ?",(( num3-num1 )/ num2 ),(a-b)/c
+"marginal cost is the cost of increasing the quantity produced ( or purchased ) by one unit . if the fixed cost for n products is $ num1 and the marginal cost is $ num2 , and the total cost is $ num3 , what is the value of n ?",(( num3-num1 )/ num2 ),(a-b)/c
+"george ' s car calls for num1 ounces of oil for each cylinder used . his car ' s engine has num2 cylinders . if num3 ounces of oil has already been put into the engine used , then how many additional ounces of oil are needed ?",(( num1*num2 )- num3 ),(a*b)-c
+"what is the dividend ? the divisor is num1 , the quotient is num2 , and the remainder is-num3 .",(( num1*num2 )- num3 ),(a*b)-c
+Paul has num1 marbles. Hope has num2 as many. How many more marbles does Hope have than Paul?,( num1*num2 )- num1 ,(a*b)-c
+"Mr. Williams bought num1 gallons of juice for a party. Each gallon has num2 cups. At the party, num3 cups of juice were left. How many cups of juice were drunk? ",( num1*num2 )- num3 ,(a*b)-c
+"Yannick buys some Christmas decoration, he gets num1 boxes of baubles , each contain num2 . He gives num3 individual baubles to his neighbour. How many does he have? ",( num1*num2 )- num3 ,(a*b)-c
+"At Penny's bakery, her famous blueberry cheesecakes are $ num1 a slice. Each cheesecake pie is cut into num2 thick slices. If she sells num3 cheesecake pies, how much money does she make?",( num1*num2 )* num3 ,(a*b)*c
+Super Clean Car Wash Company cleans num1 cars per day. They make $ num2 per car washed. How much money will they make in num3 days?,( num1*num2 )* num3 ,(a*b)*c
+. in digging a pond num1 m*num2 m*num3 m the volumes of the soil extracted will be ?,(( num1*num2 )* num3 ),(a*b)*c
+"find the area of a cuboid of length num1 cm , breadth num2 cm . and height num3 cm .",(( num1*num2 )* num3 ),(a*b)*c
+in digging a pond num1 m*num2 m*num3 m the volumes of the soil extracted will be ?,(( num1*num2 )* num3 ),(a*b)*c
+"a company has a hierarchical system where for every num1 workers , there is one team lead , and for every num2 teams leads , there is one supervisor . if the company has num3 supervisors , how many workers does it have ?",(( num3*num2 )* num1 ),(a*b)*c
+A window is made up of num1 glass panes. Each pane has a length of num2 inches and a width of num3 inches. What is the area of the window? ,( num1*num2 )* num3 ,(a*b)*c
+"Eddy's spider plant produces num1 baby plants num2 times a year. After num3 years, how many baby plants will the mother plant have produced? ",( num1*num2 )* num3 ,(a*b)*c
+Jack sews num1 shirts for each of his num2 kids. He sews num3 buttons in each shirt. How many buttons must Jack use for all the shirts? ,( num1*num2 )* num3 ,(a*b)*c
+"Jason goes to the library num1 times more often than William goes. If William goes num2 times per week to the library, how many times does Jason go to the library in num3 weeks? ",( num1*num2 )* num3 ,(a*b)*c
+ num1 machines can do a work in num2 days . how many machines are needed to complete the work in num3 days ?,(( num1*num2 )/ num3 ),(a*b)/c
+ num1 men do a work in num2 days . how many men are needed to finish the work in num3 days ?,(( num1*num2 )/ num3 ),(a*b)/c
+ num1 people can do work in num2 days how much people they required to complete the work in num3 days ?,(( num1*num2 )/ num3 ),(a*b)/c
+"a bullet train covers a distance in num1 min , if it runs at a speed of num2 kmph on an average . the speed at which the bullet train must run to reduce the time of journey to num3 min will be .",(( num1*num2 )/ num3 ),(a*b)/c
+"a train covers a distance at a speed of num1 kmph in num2 hours . to cover the same distance in num3 hours , it must travel at a speed of ?",(( num1*num2 )/ num3 ),(a*b)/c
+find the annual income derived by investing $ num1 in num2 % stock at num3 .,(( num1*num2 )/ num3 ),(a*b)/c
+"hcf and lcm two numbers are num1 and num2 respectively . if one of the numbers is num3 , then the other number is ?",(( num1*num2 )/ num3 ),(a*b)/c
+"if num1 men can do a piece of work in num2 hours , in how many hours will num3 men do it ?",(( num1*num2 )/ num3 ),(a*b)/c
+"if num1 men do a work in num2 days , in how many days will num3 men do it ?",(( num1*num2 )/ num3 ),(a*b)/c
+"if num1 men take num2 days to to complete a job , in how many days can num3 men finish that work ?",(( num1*num2 )/ num3 ),(a*b)/c
+"if num1 people can eat a gallon of ice cream in num2 days , how long would it take num3 people to eat a gallon of ice cream ?",(( num1*num2 )/ num3 ),(a*b)/c
+"if num1 workers can build a wall in num2 hours , how many workers will be required to do the same work in num3 hours ?",(( num1*num2 )/ num3 ),(a*b)/c
+"if it takes num1 kids num2 hours to wear out their teacher , how long would it take num3 kids ?",(( num1*num2 )/ num3 ),(a*b)/c
+lcm of two numbers is num1 and hcf is num2 . if one number is num3 then other number is,(( num1*num2 )/ num3 ),(a*b)/c
+"the lcm and hcf of two numbers are num1 and num2 respectively . if one of them is num3 , find the other ?",(( num1*num2 )/ num3 ),(a*b)/c
+the lcm of two numbers is num1 and hcf is num2 . if one of the numbers is num3 . then what is the other number ?,(( num1*num2 )/ num3 ),(a*b)/c
+"there is enough provisions for num1 men in an army camp for num2 days . if there were num3 men less , how long will the provision last ?",(( num1*num2 )/ num3 ),(a*b)/c
+"there is enough provisions for num1 women in an army camp for num2 days . if there were num3 men less , how long will the provision last ?",(( num1*num2 )/ num3 ),(a*b)/c
+albert is num1 times mary ’ s age and num2 times as old as betty . mary is num3 years younger than albert . how old is betty ?,(( num1*num3 )/ num2 ),(a*b)/c
+"in a division , a student took num1 as divisor instead of num2 . his answer was num3 . the correct answer is -",(( num1*num3 )/ num2 ),(a*b)/c
+"on teacher ' s day , sweets were to be equally distributed among num1 children in a school . actually , on the teacher ' s day , num2 children were absent and therefore each child got num3 sweets extra . how many sweets did each child get on that day ?",(( num1*num3 )/ num2 ),(a*b)/c
+" num1 beavers , working together in a constant pace , can build a dam in num2 hours . how many b hours will it take num3 beavers that work at the same pace , to build the same dam ?",(( num2*num1 )/ num3 ),(a*b)/c
+" num1 beavers , working together in a constant pace , can build a dam in num2 hours . how many hours c will it take num3 beavers that work at the same pace , to build the same dam ?",(( num2*num1 )/ num3 ),(a*b)/c
+" num1 beavers , working together in a constant pace , can build a dam in num2 hours . how many hours will it take num3 beavers that work at the same pace , to build the same dam ?",(( num2*num1 )/ num3 ),(a*b)/c
+" num1 beavers , working together in a constant pace , can build a dam in num2 hours . how many hours x will it take num3 beavers that work at the same pace , to build the same dam ?",(( num2*num1 )/ num3 ),(a*b)/c
+" num1 beavers , working together in a constant pace , can build a dam in num2 hours . how many hours z will it take num3 beavers that work at the same pace , to build the same dam ?",(( num2*num1 )/ num3 ),(a*b)/c
+" num1 beavers , working together in a constant pace , can build a dam in num2 hours . how many v hours will it take num3 beavers that work at the same pace , to build the same dam ?",(( num2*num1 )/ num3 ),(a*b)/c
+" num1 buckets of water fill a tank when the capacity of each bucket is num2 litres . how many buckets will be needed to fill the same tank , if the capacity of each bucket is num3 litres ?",(( num2*num1 )/ num3 ),(a*b)/c
+ num1 men can complete a piece of work in num2 days . in how days will num3 men can complete the work ?,(( num2*num1 )/ num3 ),(a*b)/c
+ num1 men can complete a piece of work in num2 days . in how many days can num3 men complete that piece of work ?,(( num2*num1 )/ num3 ),(a*b)/c
+ num1 men can complete a piece of work in num2 days . in how many days will num3 men complete the same work ?,(( num2*num1 )/ num3 ),(a*b)/c
+"if it takes num1 construction workers num2 days to build a skyscraper , how long would it take num3 workers ?",(( num2*num1 )/ num3 ),(a*b)/c
+"if it takes num1 movers num2 minutes to unpack their van , how long would num3 movers take ?",(( num2*num1 )/ num3 ),(a*b)/c
+"a can go round a circular path num1 times in num2 minutes . if the diameter of the circle is increased to num3 times the original diameter , then the time required by a to go round the new path once , travelling at the same speed as before is",(( num2*num3 )/ num1 ),(a*b)/c
+"if num1 % of x is equal to num2 % of y , then num3 % of x will be equal to how much % of y ?",(( num2*num3 )/ num1 ),(a*b)/c
+if the lcm and hcf of num1 and another number is num2 and num3 respectively . find the other number ?,(( num2*num3 )/ num1 ),(a*b)/c
+"dan ’ s car gets num1 miles per gallon . if gas costs $ num2/gallon , then how many miles can dan ’ s car go on $ num3 of gas ?",(( num3*num1 )/ num2 ),(a*b)/c
+"the first , second and third terms of the proportion are num1 , num2 , num3 . find the fourth term .",(( num3*num2 )/ num1 ),(a*b)/c
+Angie bought num1 lbs. of coffee at the store today. Each lb. of coffee will brew about num2 cups of coffee. Angie drinks num3 cups of coffee every day. How many days will this coffee last her?,( num1*num2 )/ num3 ,(a*b)/c
+Emily holds a raffle to raise money for local charities. She sells num1 tickets at £ num2 each. The money is to be shared equally between num3 charities. How much will each get ? ,( num1*num2 )/ num3 ,(a*b)/c
+"Frank invites his friends over to play video games. He bakes a pan of brownies before he arrives. He cuts num1 even columns and num2 even rows into the pan of brownies. If there are num3 people, including Frank, in total, how many brownies can they each eat? ",( num1*num2 )/ num3 ,(a*b)/c
+"in a division sum , the quotient is num1 , the divisor num2 and the remainder num3 , find the dividend ?",(( num1*num2 )+ num3 ),(a*b)+c
+the average weight of num1 girls increases by num2 kg when a new girl comes in place of one of them weighing num3 kg . what might be the weight of the new girl ?,(( num1*num2 )+ num3 ),(a*b)+c
+the average weight of num1 person ' s increases by num2 kg when a new person comes in place of one of them weighing num3 kg . what is the weight of the new person ?,(( num1*num2 )+ num3 ),(a*b)+c
+the average weight of num1 person ' s increases by num2 kg when a new person comes in place of one of them weighing num3 kg . what might be the weight of the new person ?,(( num1*num2 )+ num3 ),(a*b)+c
+"the divisor is num1 , the quotient is num2 and the remainder is num3 . what is the dividend ?",(( num1*num2 )+ num3 ),(a*b)+c
+"what is the dividend . divisor num1 , the quotient is num2 and the remainder is num3 ?",(( num1*num2 )+ num3 ),(a*b)+c
+"the average weight of num1 oarsmen in a boat is increased by num2 kg when one of the crew , who weight num3 kg is replaced by a new man . find the weight of the new man .",(( num2*num1 )+ num3 ),(a*b)+c
+There are num1 pupils in a bumpy coach journey and everyone is sick! The coach driver charges them £ num2 each and additional num3 to clear up the mess. How much do they pay ? ,( num1*num2 )+ num3 ,(a*b)+c
+Wendy has num1 facial products she puts on in the morning and she waits num2 minutes between each product. She also spends an additional num3 minutes putting on her make-up. How much time does it take her to put on her 'full face?',( num1*num2 )+ num3 ,(a*b)+c
+a straight line in the xy-plane has slope num1 . on this line the x-coordinate of the point is num2 and y-intercept is num3 then what is the y-coordinate of the plane ?,( num2*num1 ) + num3,(a*b)+c
+"Sammy has num1 more bottle caps than Janine. Janine has num2 times as many bottle caps as Billie. If Billie has num3 bottle caps, how many does Sammy have? ",( num3*num2 )+ num1 ,(a*b)+c
+the average weight of num1 persons increases by num2 kg when a new person comes in place of one of them weighing num3 kg . what might be the weight of the new person ?,( num3 +( num1*num2 )),(a*b)+c
+average weight of num1 people increased by num2 kg when one person of num3 kg is replaced by a new man . then weight of the new man is,( num3 +( num2*num1 )),(a*b)+c
+ num1 bags of nuts are to be divided among num2 students . each bag contains num3 nuts . how many nuts will each student receive ?,(( num1/num2 )* num3 ),(a/b)*c
+a train running at num1/num2 of its own speed reached a place in num3 hours . how much time could be saved if the train would have run at its own speed ?,(( num1/num2 )* num3 ),(a/b)*c
+"on a map , num1 centimeters represents num2 kilometers . two cities num3 kilometers apart would be separated on the map by how many centimeters ?",(( num1/num2 )* num3 ),(a/b)*c
+"on a map , num1 centimeters represents num2 kilometers . two cities num3 kilometers apart would be separated on the map by how many centimeters ?",(( num1/num2 )* num3 ),(a/b)*c
+"the volume of a certain substance is always directly proportional to its weight . if num1 cubic inches of the substance weigh num2 ounces , what is the volume , in cubic inches , of num3 ounces of this substance ?",(( num1/num2 )* num3 ),(a/b)*c
+"a squirrel runs up a cylindrical post , in a perfect spiral path making one circuit for each rise of num1 feet . how many feet does the squirrel travels if the post is num2 feet tall and num3 feet in circumference ?",(( num2/num1 )* num3 ),(a/b)*c
+"two pots are in side-by-side . one pot , which is num1 inches tall , casts a shadow that is num2 inches long . the other pot is num3 inches tall . compute , in inches , the length of the shadow that the taller pot casts .",(( num2/num1 )* num3 ),(a/b)*c
+"a certain hospital has a policy that for every num1 patients there should be num2 doctors . if the number of patients visiting the hospital every day is num3 , how many doctors are there in the hospital ?",(( num3/num1 )* num2 ),(a/b)*c
+"after working for num1 days , david was joined by moore . together they completed the remaining job in num2 days . how many days will it take both of them to complete the entire job , given that it would have taken david num3 days to complete the job alone ?",(( num3/num1 )* num2 ),(a/b)*c
+a car covers a distance of num1 km in num2 ½ hours . find its speed ?,(( num3/num2 )* num1 ),(a/b)*c
+"in order to obtain an income of rs . num1 from num2 % stock at rs . num3 , one must make an investment of",(( num3/num2 )* num1 ),(a/b)*c
+Sarah has a catering pack of Salad Cream. It has num1 ml in it. Her job is to put it into tiny num2 ml sachets. The sachets are to be charged at num3 p each. How much will she get for all the full sachets? ,( num1/num2 )* num3 ,(a/b)*c
+a shopkeeper sells num1 metres of cloth for $ num2 at a loss of rs . num3 per metre . find his cost price for one metre of cloth ?,(( num2/num1 )+ num3 ),(a/b)+c
+a shopkeeper sells num1 metres of cloth for rs . num2 at a loss of rs . num3 per metre . find his cost price for one metre of cloth ?,(( num2/num1 )+ num3 ),(a/b)+c
+"a whale goes on a feeding frenzy that lasts for num1 hours . for the first hour he catches and eats x kilos of plankton . in every hour after the first , it consumes num2 kilos of plankton more than it consumed in the previous hour . if by the end of the frenzy the whale will have consumed a whopping accumulated total num3 kilos of plankton , how many kilos did he consume on the sixth hour ?",(( num3/num1 )+ num2 ),(a/b)+c
+Bart makes a mixtape. The first side has num1 songs. The second side has num2 songs. Each song is num3 minutes. How long is the total tape?,( num1 + num2 )* num3 ,(a+b)*c
+"if two girls starting from same point , walking in the opposite directions with num1 km/hr and num2 km/hr as average speeds respectively . then the distance between them after num3 hours is ?",(( num1 + num2 )* num3 ),(a+b)*c
+maria bought num1 notebooks and num2 pens costing num3 dollars each . how much did maria pay ?,(( num1 + num2 )* num3 ),(a+b)*c
+roja and pooja start moving in the opposite directions from a pole . they are moving at the speeds of num1 km/hr and num2 km/hr respectively . after num3 hours what will be the distance between them ?,(( num1 + num2 )* num3 ),(a+b)*c
+i chose a number and divide it by num1 . then i subtracted num2 from the result and got num3 . what was the number i chose ?,(( num2 + num3 )* num1 ),(a+b)*c
+A store owner ordered num1 cases of bottles of soda in April and num2 cases in May. There are num3 bottles per case. How many bottles of soda did the store owner order in April and May? ,( num1 + num2 )* num3 ,(a+b)*c
+"Sally eats num1 sandwiches on Saturday and num2 sandwich on Sunday. If each sandwich uses num3 pieces of bread, how many pieces of bread does Sally eat across Saturday and Sunday? ",( num1 + num2 )* num3 ,(a+b)*c
+Zara sells boxes of cupcakes in her village. Each box has num1 chocolate and num2 red velvet cupcakes. She manages to sell num3 boxes. How many did she sell?,( num1 + num2 )* num3 ,(a+b)*c
+ num1 lions and num2 rhinos escape from the zoo. If it takes num3 hours to recover each animal how long did the zoo spend recovering animals?,( num1 + num2 )* num3 ,(a+b)*c
+"after striking the floor , a rubber ball rebounds to num1/num2 th of the height from which it has fallen . find the total distance that it travels before coming to rest if it has been gently dropped from a height of num3 metres .",( num3 *( num1 + num2 )),(a+b)*c
+"a certain no . whendivided by num1 leaves a remainder num2 , what is the remainder if the same no . be dividedby num3 ?",(( num1 + num2 )/ num3 ),(a+b)/c
+"a no . when divided by num1 gives a remainder num2 , what remainder will be obtained by dividing the same no . num3 ?",(( num1 + num2 )/ num3 ),(a+b)/c
+a train num1 m long passes a platform num2 m long in num3 seconds . the speed of the train in m/sec is ?,(( num1 + num2 )/ num3 ),(a+b)/c
+sam and nik start from a and b respectively at the same time and travel towards each other at constant speeds along the same route . sam meets nik at point c on the road which is num1 m away from starting point a and num2 m away from point b . the speed of sam is num3 m/m ( meter/minute ) . how much time did sam take to cover the distance between a and b ?,(( num1 + num2 )/ num3 ),(a+b)/c
+"the length of the bridge is num1 m , which a num2 m long train cross in num3 sec . then what is the speed of train ?",(( num1 + num2 )/ num3 ),(a+b)/c
+"a student , after his teacher ' s question , chose a number , multiplied it by num1 , then subtracted num2 from the result and got num3 . what was the number he chose ?",(( num2 + num3 )/ num1 ),(a+b)/c
+"a student chose a number , multiplied it by num1 , then subtracted num2 from the result and got num3 . what was the number he chose ?",(( num3 + num2 )/ num1 ),(a+b)/c
+"Edmonton is num1 kilometers north of Red Deer. Calgary is num2 kilometers south of Red Deer. If you travel at num3 kilometers per hour, how long will it take to get from Edmonton to Calgary?",( num1 + num2 )/ num3 ,(a+b)/c
+"Simon is picking blueberries to make blueberry pies. He picks num1 blueberries from his own bushes and another num2 blueberries from blueberry bushes growing nearby. If each pie needs num3 blueberries, how many blueberry pies can Simon make?",( num1 + num2 )/ num3 ,(a+b)/c
+"When Patrick, Manu, and Amy participate in a race they realize that Patrick finishes the race in num1 seconds. Manu took num2 more seconds to finish the race. If Amy is num3 as fast as Manu, how long did it take her to finish the race?",( num1 + num2 )/ num3 ,(a+b)/c
+ num1 percent of your marbles are a solid color . num2 percent of your marbles are solid yellow . what percentage of your marbles are a solid color other than yellow ?,( num1-num2 ),a-b
+"if the tens digit of positive integers m , y are num1 , how many values of the tens digit of num2 ( m + y ) can be there ?",( num1-num2 ),a-b
+"if x and y are integers , what is the least positive number of num1 x + num2 y ?",( num1-num2 ),a-b
+"in a class , num1 students pass in english and num2 students in math , while some students among these pass in both . how many more students do only english as compared to those doing only maths ?",( num1-num2 ),a-b
+"john want to buy a $ num1 trouser at the store , but he think it ’ s too expensive . finally , it goes on sale for $ num2 . what is the percent decrease ?",( num1-num2 ),a-b
+"john want to buy a $ num1 trouser at the store , but he think it â € ™ s too expensive . finally , it goes on sale for $ num2 . what is the percent decrease ?",( num1-num2 ),a-b
+"robert ate num1 chocolates , nickel ate num2 chocolates . how many more chocolates did robert ate than nickel ?",( num1-num2 ),a-b
+"the area of a rectangular plot is num1 times its breadth . if the difference between the length and the breadth is num2 metres , what is its breadth ?",( num1-num2 ),a-b
+the maximum numbers of students among them num1 pens and num2 pencils can be distributed in such a way that each student gets the same number of pens and same number of pencils is,( num1-num2 ),a-b
+the maximum numbers of students among them num1 pens and num2 toys can be distributed in such a way that each student gets the same number of pens and same number of toys is,( num1-num2 ),a-b
+the speed of a boat in still water is num1 kmph and the speed of the current is num2 kmph . find the speed and upstream ?,( num1-num2 ),a-b
+a football team lost num1 yards and then gained num2 . what is the team ' s progress ?,( num2-num1 ),a-b
+"in a sample of associates at a law firm , num1 percent are second-year associates , and num2 percent are not first-year associates . what percentage of the associates at the law firm have been there for more than two years ?",( num2-num1 ),a-b
+"in a sample of associates at a law firm , num1 percent are second-year associates , and num2 percent are not first-year associates . what percentage of the associates at the law firm have been there for more than two years ?",( num2-num1 ),a-b
+"in gabriel ' s sheep herd , every sheep has either fleas or lice or both . half of the sheep have lice , and num1 sheep have both pests . if num2 sheep have lice , how many sheep have only fleas ?",( num2-num1 ),a-b
+jim drove num1 miles of a num2 miles journey . how many more miles does he need to drive to finish his journey ?,( num2-num1 ),a-b
+nitin ranks num1 th in a class of num2 students . what is rank from the last ?,( num2-num1 ),a-b
+rob also compared the empire state building and the petronas towers . what is the height difference between the two if the empire state building is num1 m tall and the petronas towers is num2 m tall ?,( num2-num1 ),a-b
+" num1 pupil , out of them num2 in debate only and num3 in singing only . then how many in both ?",( num1 -( num2 + num3 )),a-b-c
+"two family reunions are happening at the taj hotel , the oates reunion and the hall reunion . all num1 guests at the hotel attend at least one of the reunions . if num2 people attend the oates reunion and num3 people attend the hall reunion , how many people attend both reunions ?",( num1 -( num3 + num2 )),a-b-c
+"in a certain alphabet , num1 letters contain a dot and a straight line . num2 letters contain a straight line but do not contain a dot . if that alphabet has num3 letters , all of which contain either a dot or a straight line or both , how many letters contain a dot but do not contain a straight line ?",( num3 -( num1 + num2 )),a-b-c
+a pipe can fill a cistern in num1 minutes . find the time in which num2/num3 part of the cistern will be filled ?,( num1 *( num2/num3 )),a*(b/c)
+"it was calculated that num1 men could complete a piece of work in num2 days . when work was scheduled to commence , it was found necessary to send num3 men to another project . how much longer will it take to complete the work ?",( num2 *( num1/num3 )),a*(b/c)
+"it was calculated that num1 men could complete a piece of work in num2 days . when work was scheduled to commence , it was found necessary to send num3 men to another project . how much longer will it take to complete the work ?",( num2 *( num1/num3 )),a*(b/c)
+"a flagpole num1 meters high casts a shadow of length num2 meters . if a building under similar conditions casts a shadow of length num3 meters , what is the height of the building ( in meters ) ?",( num3 *( num1/num2 )),a*(b/c)
+"a tree is num1 m tall and casts an an num2 m long shadow . at the same time , a flag pole caste a num3 m long shadow . how long is the flag pole ?",( num3 *( num1/num2 )),a*(b/c)
+"a football field is num1 square yards . if num2 pounds of fertilizer are spread evenly across the entire field , how many pounds of fertilizer were spread over an area of the field totaling num3 square yards ?",( num3 *( num2/num1 )),a*(b/c)
+a car travels at a speed of num1 miles per hour . how far will it travel in num2 hours ?,( num1*num2 ),a*b
+a large box contains num1 small boxes and each small box contains num2 chocolate bars . how many chocolate bars are in the large box ?,( num1*num2 ),a*b
+a person is traveling at num1 km/hr and reached his destiny in num2 hr find the distance ?,( num1*num2 ),a*b
+a person is traveling at num1 km/hr and reached his destiny in num2 hr then find the distance ?,( num1*num2 ),a*b
+"a rectangular garden is num1 m by num2 m , what is its area ?",( num1*num2 ),a*b
+"after replacing an old member by a new member , it was found that the average age of num1 members of a club is the same as it was num2 years ago . what is the difference between the ages of the replaced and the new member ?",( num1*num2 ),a*b
+calculate num1 x num2 ,( num1*num2 ),a*b
+find the area of a parallelogram with base num1 cm and height num2 cm ?,( num1*num2 ),a*b
+"how long will take a leak at the bottom of a tank to empty it if it will take num1 hours to fill it without the leak , but due to the leak it will take num2 hours to be filled ?",( num1*num2 ),a*b
+jacob is num1 years old . he is num2 times as old as his brother . how old will jacob be when he is twice as old ?,( num1*num2 ),a*b
+one gear of pulley rotates at a speed of num1 rev/sec another gear roates at num2 rev/sec . if both start together after how many seconds will they be together again,( num1*num2 ),a*b
+simplify num1*num2 ,( num1*num2 ),a*b
+"the average age of num1 members of a committee is the same as it was num2 years ago , because an old member has been replaced by a young member . find how much younger is the new member ?",( num1*num2 ),a*b
+the average marks obtained by num1 candidates in a certain examination is num2 . find the total marks .,( num1*num2 ),a*b
+what is the distance covered by a car if it travels with a speed of num1 kmh for num2 hours ?,( num1*num2 ),a*b
+what is the distance covered by a train if it travels with a speed of num1 kmh for num2 hours ?,( num1*num2 ),a*b
+"a case contains c cartons . each carton contains b boxes , and each box contains num1 paper clips . how many paper clips are contained in num2 cases ?",( num2*num1 ),a*b
+"if the lcm of a and b is num1 and their hcf is num2 , what is the product of a & b ?",( num2*num1 ),a*b
+"nicky and cristina are running a race . since cristina is faster than nicky , she gives him a num1 meter head start . if cristina runs at a pace of num2 meters per second and nicky runs at a pace of only num3 meters per second , how many seconds will nicky have run before cristina catches up to him ?",( num1 /( num2-num3 )),a/(b-c)
+"calculate how long it will take a swimmer to swim a distance of num1 km against the current of a river which flows at num2 km/hr , given that he can swim in still water at num3 km/h",( num1 /( num3-num2 )),a/(b-c)
+"on selling num1 balls at rs . num2 , there is a loss equal to the cost price of num3 balls . the cost price of a ball is",( num2 /( num1-num3 )),a/(b-c)
+a tiger is chasing its prey at a constant speed . it entire body passes a blade of grass in num1 second . it then runs above a fallen tree trunk that is num2 meters long in num3 seconds . what is the length of the tiger ?,( num2 /( num3-num1 )),a/(b-c)
+a girl was asked to multiply a certain number by num1 . she multiplied it by num2 and got his answer less than the correct one by num3 . find the number to be multiplied .,( num3 /( num1-num2 )),a/(b-c)
+"a person can swim in still water at num1 km/h . if the speed of water num2 km/h , how many hours will the man take to swim back against the current for num3 km ?",( num3 /( num1-num2 )),a/(b-c)
+"a swimmer can swim in still water at num1 km/h . if the speed of the water current is num2 km/h , how many hours will the swimmer take to swim against the current for num3 km ?",( num3 /( num1-num2 )),a/(b-c)
+"two cars started at the same time , from the same point , driving along the same road . the rate of the first car is num1 mph and the rate of the second car is num2 mph . how long will it take for the distance between the two cars to be num3 miles ?",( num3 /( num2-num1 )),a/(b-c)
+two cars start at the same time from opposite ends of a highway that is num1 miles long . one car is riding at num2 mph and the second car is riding at num3 mph . how long after they begin will they meet ?,( num1 /( num2 + num3 )),a/(b+c)
+"a man sold num1 toys for rs . num2 , gaining thereby the cost price of num3 toy find the cost price of a toy",( num2 /( num1 + num3 )),a/(b+c)
+"an escalator moves towards the top level at the rate of num1 ft . sec and its length is num2 feet . if a person walks on the moving escalator at the rate of num3 feet per second towards the top level , how much time does he take to cover the entire length .",( num2 /( num1 + num3 )),a/(b+c)
+two cyclist start from the same places in opposite directions . one is going towards north at num1 kmph and the other is going towards south num2 kmph . what time will they take to be num3 km apart ?,( num3 /( num1 + num2 )),a/(b+c)
+two cyclist start from the same places in opposite directions . one is going towards north at num1 kmph and the other is going towards south num2 kmph . what time will they take to be num3 km apart ?,( num3 /( num1 + num2 )),a/(b+c)
+"two cyclist start on a circular track from a given point but in opposite direction with speeds of num1 m/s and num2 m/s . if the circumference of the circle is num3 meters , after what time will they meet at the starting point ?",( num3 /( num2 + num1 )),a/(b+c)
+a trader sells num1 meters of cloth for $ num2 . what is the cost price of one metre of cloth ?,( num2 / num1 ),a/b
+a trader sells num1 meters of cloth for rs . num2 . what is the cost price of one metre of cloth ?,( num2 / num1 ),a/b
+"the pilot of a small aircraft with a num1 -gallon fuel tank wants to fly to cleveland . The pilot recognizes that the current engine , which can fly only num2 miles, will not get him there . What is in miles per gallon the aircraft ’ s current fuel efficiency ? ",( num2 / num1 ),a/b
+ a car covers a distance of num1 km in num2 hours . find its speed ?,( num1/num2 ),a/b
+"a boat sails num1 km of a river towards upstream in num2 hours . how long will it take to cover the same distance downstream , if the speed of current is one-fourth the speed of the boat in still water ?",( num1/num2 ),a/b
+a car covers a distance of num1 km in num2 hours . find its speed ?,( num1/num2 ),a/b
+a company produces num1 bottles of water everyday . if a case can hold num2 bottles of water . how many cases are required by the company to hold its one day production,( num1/num2 ),a/b
+"a factory produces num1 toys per week . if the workers at this factory work num2 days a week and if these workers make the same number of toys everyday , how many toys are produced each day ?",( num1/num2 ),a/b
+a volume of num1 l water is in a container of sphere . how many hemisphere of volume num2 l each will be required to transfer all the water into the small hemispheres ?,( num1/num2 ),a/b
+"anita has num1 apples . there are num2 students are studying in her class . she would like to give each student the same amount of apples , how much should she give to each student ?",( num1/num2 ),a/b
+how many boxes do we need if we have to carry num1 apples into boxes that each hold num2 apples ?,( num1/num2 ),a/b
+how many pages do you need if you have to write num1 lines of information into pages that each hold num2 lines ?,( num1/num2 ),a/b
+"i have num1 pieces of cake . there are num2 friends in my house . i would like to give each friend the same amount of cake , how much should i give to each friend ?",( num1/num2 ),a/b
+"if an amount of rs num1 is distributed equally amongst num2 persons , how much amount would each person get ?",( num1/num2 ),a/b
+"shreehari has num1 pencils . there are num2 students are studying in his class . he would like to give each student the same amount of pencils , how much should he give to each student ?",( num1/num2 ),a/b
+what is the time required for a bike to cover a distance of num1 km with a speed of num2 kmh ?,( num1/num2 ),a/b
+ num1 times a number equals one num2 . the number is,( num2/num1 ),a/b
+a girl walks at a speed of num1 kmph . how much time does he take to walk a distance of num2 km ?,( num2/num1 ),a/b
+a man have num1 t-shirt and some pant . he can dress in num2 ways . then tell me the no . of pant that man have .,( num2/num1 ),a/b
+a scuba diver descends at a rate of num1 feet per minute . a diver dive from a ship to search for a lost ship at the depth of num2 feet below the sea level . . how long will he take to reach the ship ?,( num2/num1 ),a/b
+"a worker makes a toy in every num1 h . if he works for num2 h , then how many toys will he make ?",( num2/num1 ),a/b
+"hcf of two numbers is num1 and the product of these numbers is num2 , what is the the greater number ?",( num2/num1 ),a/b
+"how many of the positive factors of num1 , num2 and how many common factors are there in numbers ?",( num2/num1 ),a/b
+how many trucks are there if each truck carrying num1 packages and total of num2 packages ?,( num2/num1 ),a/b
+"n people were sitting on a circular manner , if each of two present in the party except the pairs were adjacent sang a song , if a song lasted for num1 mins and num2 minutes was taken for singing song , find n",( num2/num1 ),a/b
+a customer pays num1 dollars for a coffee maker after a discount of num2 dollars what is the original price of the coffe maker ?,( num1 + num2 ),a+b
+"a dog has num1 bones , then he finds num2 more bones . now how many bones does he have .",( num1 + num2 ),a+b
+"if there are num1 peanuts in a box and mary puts num2 more peanuts inside , how many peanuts are in the box ?",( num1 + num2 ),a+b
+julian owes his classmate jenny num1 dollars . if he borrows num2 dollars how much will he owe her ?,( num1 + num2 ),a+b
+"lilly has num1 fish and rosy has num2 fish . in total , how many fish do they have in all ?",( num1 + num2 ),a+b
+"there are num1 bees in the hive , then num2 more fly . how many bees are there in all ?",( num1 + num2 ),a+b
+"Tom's fruit bowl contains num1 oranges and num2 lemons. After Tom eats num3 of the fruits, how many fruits remain in Tom's fruit bowl?",( num1 + num2 )- num3 ,a+b-c
+" num1 students are required to paint a picture . num2 use green color and some children use red , num3 students use both the colors . how many students use red color ?",(( num1-num2 )+ num3 ),a+b-c
+"in a class , num1 students like to play basketball and num2 like to play cricket . num3 students like to play on both basketball and cricket . how many students like to play basketball or cricket or both ?",(( num1 + num2 )- num3 ),a+b-c
+"in a group of houses , num1 had dogs , num2 had cats and num3 houses having both dogs and cats . what is the number of houses ?",(( num1 + num2 )- num3 ),a+b-c
+in a college students can play cricket or basketball . num1 play cricket . num2 played both and num3 played basketball . what is the total strength of college ?,(( num1 + num3 )- num2 ),a+b-c
+sobha ' s father was num1 years of age when she was born while her mother was num2 years old when her brother num3 years younger to her was born . what is the difference between the ages of her parents ?,(( num1 + num3 )- num2 ),a+b-c
+the average monthly income of p and q is rs . num1 . the average monthly income of q and r is rs . num2 and the average monthly income of p and r is rs . num3 . the monthly income of p is ?,(( num1 + num3 )- num2 ),a+b-c
+" num1 pupil total , out of num2 like pizza , num3 like burger , then how many like both ?",(( num2 + num3 )- num1 ),a+b-c
+"a , b and c have rs . num1 between them , a and c together have rs . num2 and b and c rs . num3 . how much does c have ?",(( num2 + num3 )- num1 ),a+b-c
+"in a group of num1 players some are outdoor players , some are indoor players and some plays both . num2 plays outdoors and num3 plays indoor . how many plays indoor as well as outdoor games .",(( num2 + num3 )- num1 ),a+b-c
+"in a group of num1 readers who read science fiction or literacy works or both , num2 read science fiction and num3 read literacy works . how many read both science fiction and literacy works ?",(( num2 + num3 )- num1 ),a+b-c
+"in the class of num1 students , num2 speak hindi and num3 speak english . what is the lowest possible number of students who speak both the languages ?",(( num2 + num3 )- num1 ),a+b-c
+"two family reunions are happening at the park avenue hotel , the oates reunion and the hall reunion . all num1 guests at the hotel attend at least one of the reunions . if num2 people attend the oates reunion and num3 people attend the hall reunion , how many people attend both reunions",(( num2 + num3 )- num1 ),a+b-c
+"two family reunions are happening at the same hotel , the oates reunion and the yellow reunion . all num1 guests at the hotel attend at least one of the reunions . if num2 people attend the oates reunion and num3 people attend the yellow reunion , how many people attend both reunions ?",(( num2 + num3 )- num1 ),a+b-c
+"when xyz co discontinued an agency arrangement with john , management held his commission of rs . num1 /-for one month . earlier john had availed an advance agency fees of num2 /-from company . but robert forgot that . after one month john asked his fees and accountant gives rs . num3 /-to him . what is the incentive amount given to john ?",(( num2 + num3 )- num1 ),a+b-c
+"in the class of num1 students , num2 speak tamil and num3 speak telugu . what is the lowest possible number of students who speak both the languages ?",(( num3 + num2 )- num1 ),a+b-c
+there are num1 kids in a play school . num2 kids play with white color balls and some kids play with yellow color balls and num3 kids play with both color balls . how many kids use yellow color balls ?,( num1 -( num2-num3 )),a+b-c
+"a , b , c together can earn $ num1 per day . while a and c together earn $ num2 and b and c together can earn $ num3 . the daily earnings of c ?",( num3 -( num1-num2 )),a+b-c
+"anne bought doughnuts for a class breakfast party . she bought num1 chocolate doughnuts , num2 coconut doughnuts , and num3 jam-filled doughnuts . how many doughnuts did anne buy in all ?",(( num1 + num2 )+ num3 ),a+b+c
+"if num1 cm of a pencil is purple , num2 cm of the remaining is black and the remaining num3 cm is blue , what is the total length of the pencil ?",(( num1 + num2 )+ num3 ),a+b+c
+"in kaya ' s teacher ' s desk there are num1 pink highlighters , num2 yellow highlighters , and num3 blue highlighters . how many highlighters are there in all ?",(( num1 + num2 )+ num3 ),a+b+c
+"there are num1 brown dogs , num2 white dogs , num3 black dogs . totally how many dogs are there in all ?",(( num1 + num2 )+ num3 ),a+b+c

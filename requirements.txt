@@ -3,3 +3,6 @@ torch
 datasets
 accelerate
 SentencePiece
+numpy
+json
+pandas

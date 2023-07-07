@@ -24,7 +24,7 @@ parser.add_argument('--epochs',
                     help='number of epochs')
 parser.add_argument('--lr',
                     type=float,
-                    default=5e-5, #check examples of learning rate
+                    default=5e-5,
                     help='learning rate')
 parser.add_argument('--weight',
                     type=float,
@@ -52,9 +52,9 @@ args = parser.parse_args()
 
 print(args)
 model_checkpoint = args.model_checkpoint
-num_epochs = args.epochs # need large epochs
+num_epochs = args.epochs
 batch_size = args.batch
-lr = args.lr #^-2 too big, -6 too small
+lr = args.lr
 seed = args.seed
 
 from datasets import load_dataset, load_metric
@@ -144,7 +144,6 @@ model_args = Seq2SeqTrainingArguments(
     # half_precision_backend = "cuda_amp",
 )
 data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
-# import nltk
 import numpy as np
 
 from sklearn.metrics import accuracy_score
@@ -198,7 +197,6 @@ trainer.train()
 output = trainer.predict(
                         test_dataset=tokenized_datasets['eval'],
                         max_length=max_target_length,
-                        # num_beams = 5
                         )
 
 print('RESULTS:', output[2])

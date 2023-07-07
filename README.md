@@ -5,9 +5,11 @@ This is the repository for <a href="https://arxiv.org/abs/2305.17491">FERMAT: An
 You can find the codes, templates and test sets in their respective folders. Note that the codes folder is still being updated.
 
 ## Usage
-Codes contains the codes for training and evaluating the model.<br>
-Templates contains the templates written by expert maths teachers, from GSM8K and AQUA too. <br>
-Test_sets contains the Original test set (based on [Illinois](https://aclanthology.org/N16-3011.pdf) and [CommonCore](https://aclanthology.org/D15-1202.pdf)) and the 18 variation test sets used in FERMAT.
+<ul>
+  <li>Codes contains the codes for training and evaluating the model.</li>
+  <li>Templates contains the templates written by expert maths teachers, from GSM8K and AQUA too.</li>
+  <li>Test_sets contains the Original test set (based on [Illinois](https://aclanthology.org/N16-3011.pdf) and [CommonCore](https://aclanthology.org/D15-1202.pdf)) and the 18 variation test sets used in FERMAT.</li>
+</ul>
 
 ### Requirements
 Install the packages from the requirements.txt file (transformers, torch, datasets, accelerate, SentencePiece, json, pandas, numpy).

@@ -2,7 +2,7 @@
 
 This is the repository for <a href="https://aclanthology.org/2023.acl-long.838/">FERMAT: An Alternative to Accuracy for Numerical Reasoning</a> by <a href="https://jasivan.github.io/">Jasivan Alex Sivakumar</a> and <a href="https://ns-moosavi.github.io/">Nafise Sadat Moosavi</a> accepted at ACL 2023.
 
-You can find the codes, templates and test sets in their respective folders. Note that the codes folder is still being updated.
+You can find the codes, templates and test sets in their respective folders.
 
 ## Usage
 <ul>

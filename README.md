@@ -32,6 +32,7 @@ If you use this code in your work, please cite the paper:
     url = "https://aclanthology.org/2023.acl-long.838/",
     doi = "10.18653/v1/2023.acl-long.838",
     pages = "15026--15043"
+}
 ```
 
 ## Authors

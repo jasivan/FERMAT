@@ -17,15 +17,21 @@ Install the packages from the requirements.txt file (transformers, torch, datase
 ## Reference
 If you use this code in your work, please cite the paper:
 ```
-@InProceedings{sivakumar-moosavi_2023_FERMAT,
-    author = { Jasivan Alex Sivakumar, Nafise Sadat Moosavi},
-    title = {FERMAT: An Alternative to Accuracy for Numerical Reasoning},
-    year = {2023},
-    booktitle = {Proceedings of the 61st Annual Meeting of
-		the Association for Computational Linguistics (Volume 1: Long Papers)},
-    publisher = {Association for Computational Linguistics},
-    address = {Toronto, Canada},
-}
+@inproceedings{sivakumar-moosavi-2023-fermat,
+    title = "{FERMAT}: An Alternative to Accuracy for Numerical Reasoning",
+    author = "Sivakumar, Jasivan  and
+      Moosavi, Nafise Sadat",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.838/",
+    doi = "10.18653/v1/2023.acl-long.838",
+    pages = "15026--15043"
 ```
 
 ## Authors

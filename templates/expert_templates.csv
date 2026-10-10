@@ -1,0 +1,101 @@
+templates,answers,expressions
+Britney has num1 knitting needles. She buys another num2 . How many needles does she have?,num1+num2,a+b
+A computer game comes with num1 lives. Zoja wins num2 . How many lives does Zoja have in total?,num1+num2,a+b
+Rashmi has num1 ml of conditioner left. She tops it up with num2 ml. How much conditioner does she have?,num1+num2,a+b
+Robbie buys num1 hair tie in a pack and num2 from another pack. How many hair tie does he have?,num1+num2,a+b
+num1 stockings are put up for Christmas. A further num2 are put up. How many are there now?,num1+num2,a+b
+"On the board, there are num1 chalk sticks. The teacher puts num2 there. How many chalk sticks are there?",num2+num1,a+b
+Gabriel throws a pair of dice. The score on one of them is num1 and num2 on the other. What is the sum of the scores?,num2+num1,a+b
+There are num1 photo albums on the top shelf of a bookcase. The bottom row has num2 albums. How many photo album does the bookcase hold?,num2+num1,a+b
+num1 shawls and num2 shawls are attached together. How many shawls are there in total?,num2+num1,a+b
+The canteen made num1 pudding for the younger classes and num2 puddings for the older classes. How many puddings were made for the school?,num2+num1,a+b
+"At the cinema, Tito has num1 pairs of glasses but num2 are broken. How many are left?",num1-num2,a-b
+A credit card has num1 euros. Maja spends num2 euros on holiday. How much is left on the credit card?,num1-num2,a-b
+"When moving homes, Kevin had num1 boxes in total. He send off num2 boxes. How many boxes are there left?",num1-num2,a-b
+"At the harbour, num1 boats are anchored. In the morning, num2 set sail. How many are left?",num1-num2,a-b
+Mrs. Malvina has room for num1 hooks outside her class. There are num2 children in her class. How many spare hooks are there?,num1-num2,a-b
+Ziska works in a lamp shop. He cleans num1 lamps but there are num2 in total in the shop. How many does he still need to clean?,num2-num1,a-b
+Faris puts num1 forks aside for a large pasta order. He initially had a bag of num2 forks. How many does he have in the bag?,num2-num1,a-b
+"To make lemonade, Guido pressed num1 lemons. He bought num2 lemons. How many more can he press?",num2-num1,a-b
+Diwata fills her mouth with num1 g of whipped cream from a can containing num2 g. How much is left?,num2-num1,a-b
+Stacey prints num1 letters to post. The printer was filled with num2 sheets of paper. How many more letters could she print?,num2-num1,a-b
+"At the store, you can buy plastic wallets in bunches of num1. Madhu buys num2 packs. How many plastic wallets does she have?",num1*num2,a*b
+"For a science experiment, Kealoha puts num1 rocks in each plastic beakers. There are num2 beakers. How many rocks are there?",num1*num2,a*b
+"In a basketball match, on average, num1 balls are used. This year num2 matches took place. How many basketball were used?",num1*num2,a*b
+A box of eggs contains num1 eggs. The shop sells num2 boxes. How many eggs were sold?,num1*num2,a*b
+A cleaning society gives each cleaner num1 pairs of rubber gloves. They have num2 cleaners. How many pairs should they buy?,num1*num2,a*b
+"In a lifetime, people use num1 mobile phones. How many would be used by num2 people?",num2*num1,a*b
+A cafe has a dishwasher that can clean num1 spoons at a time. The cafe uses its full dishwasher num2 times a week. How many spoons do they wash?,num2*num1,a*b
+Carolina has a rubber duck race with her friends. There are num1 ducks in the race. Each ducks costs her num2 euros. How much money does she spend when she buys the ducks?,num2*num1,a*b
+"In preparation for a festival, num1 people are expected to attend. They will each need num2 forks each for one of the activities. How many forks will need to be bought in preparation for the festival? ",num2*num1,a*b
+"Margarita runs a stationery shop, she buys num1 pairs of scissors each week for num2 weeks in a row. How many pairs of scissors did Margarita buy in total? ",num2*num1,a*b
+A crafts shop has num1 chenille sticks to distribute. They sell the sticks in packs of num2. How many whole packs can be packed? ,num1/num2,a/b
+num1 teddies are donated to a charity shop. The shop decides to gift these to num2 different families. How many teddies does each family receive? ,num1/num2,a/b
+Fernando wants to give some rubber stamps to his friends. He has num1 rubber stamps and num2 friends. How many rubber stamps will each friend receive? ,num1/num2,a/b
+It has been recorded by a local wildlife park that num1 cubs live in one of the regions. There are num2 lionesses in the same area. What is the average number of cubs per lioness? ,num1/num2,a/b
+Soraya distributes num1 picture frames to num2 different warehouses. How many frames does each warehouse receive?,num1/num2,a/b
+A beauty shop shares amongst num1 clients its collection of num2 hair brushes. How many hair brush do each client get?,num2/num1,a/b
+A group of num1 volunteers planted num2 trees. How many trees did they each plant?,num2/num1,a/b
+A pocket watches chimes num1 times every hour. Adewale counts num2 chimes one day. How long has Adewale been counting the chimes?,num2/num1,a/b
+"In a French restaurant, snails are served in portion of num1 snails. If they cooked num2 snails, how many times were snails served?",num2/num1,a/b
+Bendiks sells num1 computers and earned num2 pounds in total. How much did he sell each computer for?,num2/num1,a/b
+"Imran uses num1 tooth picks on Monday, num2 tooth picks on Tuesday and num3 tooth picks on Wednesday. How many tooth picks did Imran use over the course of these three days?",num1+num2+num3,a+b+c
+"Harman has num1 cups in her cupboard, she buys another num2 cups to add to her cupboard. Her father then gifts her another num3 cups for her cupboard. How many cups are there in Harman's cupboard?",num1+num2+num3,a+b+c
+"num1 squirrels live in a park, in January, num2 squirrels are born. In February, another num3 squirrels are born. How many squirrels are there by the end of February assuming none of they all remain in the park?",num1+num2+num3,a+b+c
+"Kaleem owns num1 rings. For his birthday, Kaleem is gifted num2 rings. Kaleem then buys another num3 rings. How many rings does Kaleem own now?",num1+num2+num3,a+b+c
+"Mavuto keeps num1 bracelets in his wardrobe, num2 bracelets in his chest of drawers and num3 bracelets on his table. How many bracelets does Mavuto have?",num1+num2+num3,a+b+c
+"Maiara buys num1 spice bottles for the house, Thora buys num2 spice bottles for the house. They have to throw num3 spice bottles away as they are empty. How many spice bottles are left in the house?",num1+num2-num3,a+b-c
+"num1 people arrive to a party at 3pm, another num2 people arrive at 5pm. At 7pm, num3 people leave. How many people are left in the party after this?",num1+num2-num3,a+b-c
+Kristijan has num1 ml of shampoo and buys a bottle of num2 ml. He then uses num3 ml of shampoo. How many millilitres of shampoo does he have left?,num1+num2-num3,a+b-c
+"An computer needs num1 wires installed, another computer uses num2 wires but num3 wires don't work. How many working wires are there?",num1+num2-num3,a+b-c
+"In a game, num1 hands are put on a table, then a further num2 hands and num3 are take off. How many hands are left on the table?",num1+num2-num3,a+b-c
+"In a haberdashery, num1 packs of shoelaces are sold on Monday and num2 on Tuesday. Each pack has num3 pairs of laces. How many pais of shoe laces were sold?",(num1+num2)*num3,(a+b)*c
+Maximus paints a specific scene num1 times at Easter. He paints the same scene the following year. The painting required num3 tubes of paint. How many tubes did he use?,(num1+num2)*num3,(a+b)*c
+Milvi knitted num1 hats in November and num2 in December. One hat required num3 stitches. How many stitches did Milvi knit?,(num1+num2)*num3,(a+b)*c
+Joan of Arc battled the Brits with num1 set of arrows. She got given another num2 sets. Each set contains num3 arrows. How many arrows did she use?,(num1+num2)*num3,(a+b)*c
+Puja has a set of num1 dalmatian dog toy which come with num2 spots to put on them. She gets given num2 dalmatian toys for her birthday. How many dalmation dots does she have?,(num1+num2)*num3,(a+b)*c
+A mansion has num1 chandeliers with num2 crystals each. The owner gets another num3 chandeliers. How many crystals are there in the mansion?,(num1+num3)*num2,(a+b)*c
+A dog chews num1 bones the first week and broke it into num2 pieces. It chews num3 the following week. How many bone pieces did the dog make?,(num1+num3)*num2,(a+b)*c
+A stationary shop purchases num1 packs of num2 pens. It purchases another num3 packs for the start of school. How many pens did the shop purchase?,(num1+num3)*num2,(a+b)*c
+Amada sells num1 boxes of ice lollies in July. One box has num2 lollies. She sells num3 in August. How many lollies did she sell in the summer?,(num1+num3)*num2,(a+b)*c
+"On Monday, a class used num1 pots of num2 ml ink. On Tuesday, they use num3 pots. How much ink did the class use?",(num1+num3)*num2,(a+b)*c
+"From a sale, num1 unicorn dolls remain. The vendor has num2 unicorns. Each unicorns comes with num3 stickers. How many stickers did the vendor sell?",(num2-num1)*num3,(a-b)*c
+Bryn plays a game where he missed on num2 pouches out of num1. Each pouch comes with num3 coins. How many coins did Bryn win?,(num2-num1)*num3,(a-b)*c
+A TV program is shown once a day but lost num1 programs to the football. It's been num2 days since it first aired. Each episode last num3 minutes. How many minutes of the show has aired?,(num2-num1)*num3,(a-b)*c
+"A samourai lost num1 swords over her lifetime, she initially had num2 swords. Each swords markes the num3 battles fought. How many battles were fought by the samourai?",(num2-num1)*num3,(a-b)*c
+"num1 bowls of pasta were dropped over a shift. The kitchen sent num2 bowls out. If each bowl has num3 pasta per bowl, how many pastas were cooked?",(num2-num1)*num3,(a-b)*c
+"Adam listens to songs on the radio for num1 days, but the radio was broken for num2 days. Everyday he listens to num3 songs. How many song has he listened to?",(num1-num2)*num3,(a-b)*c
+"A butcher has num1 sets of knives, she uses up num2 the first year. Each set contains num3 knives. How many knives does she have left?",(num1-num2)*num3,(a-b)*c
+A TV store has num1 remotes of which num2 do not work. Each remote has num3 buttons. How buttons are there in total?,(num1-num2)*num3,(a-b)*c
+Gerry collected num1 bottle openers over the years but gave num2 of them to friends. Each bottle openers is sold for num3 pounds. How much money will he make?,(num1-num2)*num3,(a-b)*c
+A counseller buys num1 tissue boxes for work and takes num2 home. Each box contains num3 tissues. How many tissues will he have at work?,(num1-num2)*num3,(a-b)*c
+"Narseh and Gerry collected num1 and num2 phones together. They offer them to num3 countries across the world, how many will be sent to each country?",(num1+num2)/num3,(a+b)/c
+Alhaji has num1 rabbits in one farm and num2 in the another. He shares them with num3 people. How many rabbits do each person get? ,(num1+num2)/num3,(a+b)/c
+Jacid has num1 cheques left and Chidi has num2 left. They decide to write num3 for orphans. How orphans will they be helping?,(num1+num2)/num3,(a+b)/c
+"Two eagle feathers are collected, the first one had num1 and the second one num2 feathers. These are put in bunches of num3 feathers to make indian hats. How many hats can be made?",(num1+num2)/num3,(a+b)/c
+"The dutyfree shop has num1 perfums and got num2 delivered yesterday. If they are sold in gift baskets of num3 perfums, how many are baskets cna be sold?",(num1+num2)/num3,(a+b)/c
+"At a festival, num1 glowsticks are bought and a further num2 are purchased later. They are put in bundles of num3 glowsticks. How many buddles are there?",(num1+num2)/num3,(a+b)/c
+A school lab has num1 in one prep room and num2 in the other. These are being distributed to the num3 classrooms. How many spatulas do each classroom get?,(num1+num2)/num3,(a+b)/c
+Barnaba has num1 screws and finds num2 more. He decided to put them a tool box with num3 in each compartments. How many screws are there in each compartment?,(num1+num2)/num3,(a+b)/c
+"At the karaoke, Robert has num1 microphones. A partner company gives him a further num2. He puts the same amount in num3 karaoke rooms. How many microphone will each room have?",(num1+num2)/num3,(a+b)/c
+Akhil buys num1 pairs of socks and Pallavi buys num2 pairs. They decide to offer to num3 people for christmas. How many socks to each person get?,(num1+num2)/num3,(a+b)/c
+Vikrama used num1 sticky notes from a pack of num2. He then distributes them out in piles of num3. How many people did he give sticky notes to?,(num2-num1)/num3,(a-b)/c
+A restaurant found num1 bad scallops in a box of num2. They serve num3 scallops per dish and ran out of scallops early on. How many scallop dishes did they serve?,(num2-num1)/num3,(a-b)/c
+"A farm has num1 cows being ill out of num2, the remaining ones are sent to num3 smaller farms to be looked after. How many cows will each farmer get?",(num2-num1)/num3,(a-b)/c
+num1 wine corks are bad out of num2 of them. They are all used for num3 different wines. How many wine bottles are there per type?,(num2-num1)/num3,(a-b)/c
+"In a shop num1 badges got stuck in the printer, when num2 were supposed to be printed. These are then painted in num3 different colours. How many badges are coloured the same?",(num2-num1)/num3,(a-b)/c
+Paulina has num1 toy cars. num2 of them are broken and the rest are given to num3 children. How many toy cars will each child get?,(num1-num2)/num3,(a-b)/c
+The library gets the local students to make num1 bookmarks. num2 of them got lost. The rest are put in bundles of num3 bookmarks and sent to each of the local schools. How many school are there? ,(num1-num2)/num3,(a-b)/c
+"A box of num1 light bulbs are delivered. During the transportation, num2 broke. The light bulbs are to be put groups of num3 bulbs. How many groups are there?",(num1-num2)/num3,(a-b)/c
+"A charity makes num1 clothes, but num2 were stained when stored in the garage. They decide to give the good ones to num3 different homeless people. How many clothes do each homeless person get?",(num1-num2)/num3,(a-b)/c
+A farm delivers num1 flowers to a flower shop. The owner bins num2 of them and then puts them in bunches of num3. How many bunches will he be able to sell? ,(num1-num2)/num3,(a-b)/c
+A cabbage field has num1 cabbage along one side. It has num2 cabbage along the other side. Pemda needs to put the cabbages in sacks of num3. How many sacks will she have?,(num1*num2)/num3,(a*b)/c
+The chemistry lab as given num1 safety goggles to num2 schools. The council decided to take them all back and split them among the num3 chemistry teachers in the town. How many google does each teacher get?,(num1*num2)/num3,(a*b)/c
+"For a comedy event, num1 books of num2 jokes are shared each day for num3 days. How many jokes are released per day?",(num1*num2)/num3,(a*b)/c
+A school has num1 bags of num2 rubber bands. Each of the num3 children get the same number of rubber bands. How many will each child get?,(num1*num2)/num3,(a*b)/c
+A carpenter company has num1 boxes of nails each containing num2 nails. These are to be shared among num3 employees. How many nails will each employee get?,(num1*num2)/num3,(a*b)/c
+num1 bottles of syrups are poured into tubes of num2 ml. A bottle contains num3 ml of syrup. How many tubes can be made?,(num1*num3)/num2,(a*b)/c
+The local rostery has num1 sacks of coffee beans that needs to be sold in bags of num2 coffee beans. There are num3 beans in one sack. How many bags will they have?,(num1*num3)/num2,(a*b)/c
+Tariku bought num1 cans of chili to resell them in packs of num2. Each can has num3 chillies. How many packs can he make?,(num1*num3)/num2,(a*b)/c
+A bakery has num1 large sugar pots. But they are moving them into smaller sugar pots that can contain num2 sugar cubes. One large sugar pot has num3 sugar cubes. How many smaller sugar pots are need?,(num1*num3)/num2,(a*b)/c
+There are num1 packs of buttons in a cupboard. The tailor wants to sell them in bags of num2 buttons. Each pack comes with num3 buttons. How many bags will there be?,(num1*num3)/num2,(a*b)/c
